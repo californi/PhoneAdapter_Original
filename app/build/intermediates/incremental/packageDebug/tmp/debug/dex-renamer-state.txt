@@ -1,0 +1,4 @@
+#Mon Apr 20 16:16:24 BRT 2020
+base.0=C\:\\Users\\Bento\\Desktop\\SEAMS2020\\phoneadapter_original\\PhoneAdapter\\PhoneAdapter\\PhoneAdapter_Original\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

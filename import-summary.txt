@@ -1,0 +1,124 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* License.txt
+* PhoneAdapter\
+* PhoneAdapter\.idea\
+* PhoneAdapter\.idea\workspace.xml
+* PhoneAdapter\app\
+* PhoneAdapter\app\build.gradle
+* PhoneAdapter\app\src\
+* PhoneAdapter\app\src\main\
+* PhoneAdapter\app\src\main\AndroidManifest.xml
+* PhoneAdapter\app\src\main\java\
+* PhoneAdapter\app\src\main\java\edu\
+* PhoneAdapter\app\src\main\java\edu\hkust\
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\activity\
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\activity\CreateContextConstantActivity.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\activity\CreateFilterActivity.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\activity\CreateProfileActivity.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\activity\CreateRuleActivity.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\activity\EditFilterActivity.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\activity\EditProfileActivity.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\activity\EditRuleActivity.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\activity\MainActivity.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\activity\SearchAndSaveBTDevice.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\activity\ViewProfileActivity.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\activity\ViewRuleActivity.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\context\
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\context\AdaptationManager.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\context\ContextManager.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\context\ContextName.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\context\ContextOperator.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\context\ContextType.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\database\
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\database\MyDbAdapter.java
+* PhoneAdapter\app\src\main\java\edu\hkust\cse\phoneAdapter\database\MyDbHelper.java
+* PhoneAdapter\app\src\main\res\
+* PhoneAdapter\app\src\main\res\drawable-hdpi\
+* PhoneAdapter\app\src\main\res\drawable-hdpi\icon.png
+* PhoneAdapter\app\src\main\res\drawable-ldpi\
+* PhoneAdapter\app\src\main\res\drawable-ldpi\icon.png
+* PhoneAdapter\app\src\main\res\drawable-mdpi\
+* PhoneAdapter\app\src\main\res\drawable-mdpi\icon.png
+* PhoneAdapter\app\src\main\res\layout\
+* PhoneAdapter\app\src\main\res\layout\bt_device_item.xml
+* PhoneAdapter\app\src\main\res\layout\create_filter.xml
+* PhoneAdapter\app\src\main\res\layout\create_profile.xml
+* PhoneAdapter\app\src\main\res\layout\create_rule.xml
+* PhoneAdapter\app\src\main\res\layout\disable_rule_item.xml
+* PhoneAdapter\app\src\main\res\layout\edit_profile.xml
+* PhoneAdapter\app\src\main\res\layout\filter_item.xml
+* PhoneAdapter\app\src\main\res\layout\main.xml
+* PhoneAdapter\app\src\main\res\layout\profile_item.xml
+* PhoneAdapter\app\src\main\res\layout\profiles_list.xml
+* PhoneAdapter\app\src\main\res\layout\record_context.xml
+* PhoneAdapter\app\src\main\res\layout\rule_item.xml
+* PhoneAdapter\app\src\main\res\layout\rule_list.xml
+* PhoneAdapter\app\src\main\res\layout\search_and_save_bt_device.xml
+* PhoneAdapter\app\src\main\res\values\
+* PhoneAdapter\app\src\main\res\values\strings.xml
+* PhoneAdapter\app\src\main\resources\
+* PhoneAdapter\app\src\main\resources\.DS_Store
+* PhoneAdapter\app\src\main\resources\edu\
+* PhoneAdapter\app\src\main\resources\edu\.DS_Store
+* PhoneAdapter\app\src\main\resources\edu\hkust\
+* PhoneAdapter\app\src\main\resources\edu\hkust\.DS_Store
+* PhoneAdapter\app\src\main\resources\edu\hkust\cse\
+* PhoneAdapter\app\src\main\resources\edu\hkust\cse\.DS_Store
+* PhoneAdapter\app\src\main\resources\edu\hkust\cse\phoneAdapter\
+* PhoneAdapter\app\src\main\resources\edu\hkust\cse\phoneAdapter\.DS_Store
+* PhoneAdapter\app\src\main\resources\edu\hkust\cse\phoneAdapter\activity\
+* PhoneAdapter\app\src\main\resources\edu\hkust\cse\phoneAdapter\activity\.DS_Store
+* PhoneAdapter\build.gradle
+* PhoneAdapter\gradle\
+* PhoneAdapter\gradle\wrapper\
+* PhoneAdapter\gradle\wrapper\gradle-wrapper.jar
+* PhoneAdapter\gradle\wrapper\gradle-wrapper.properties
+* PhoneAdapter\gradlew
+* PhoneAdapter\gradlew.bat
+* PhoneAdapter\local.properties
+* PhoneAdapter\settings.gradle
+* default.properties
+* proguard.cfg
+* readme.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\.DS_Store => app\src\main\resources\.DS_Store
+* src\edu\.DS_Store => app\src\main\resources\edu\.DS_Store
+* src\edu\hkust\.DS_Store => app\src\main\resources\edu\hkust\.DS_Store
+* src\edu\hkust\cse\.DS_Store => app\src\main\resources\edu\hkust\cse\.DS_Store
+* src\edu\hkust\cse\phoneAdapter\.DS_Store => app\src\main\resources\edu\hkust\cse\phoneAdapter\.DS_Store
+* src\edu\hkust\cse\phoneAdapter\activity\.DS_Store => app\src\main\resources\edu\hkust\cse\phoneAdapter\activity\.DS_Store
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
