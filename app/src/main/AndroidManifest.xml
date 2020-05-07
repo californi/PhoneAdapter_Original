@@ -3,11 +3,17 @@
       android:versionCode="1"
       android:versionName="1.0" package="edu.hkust.cse.phoneAdapter">
 
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
-    <uses-permission android:name="android.permission.BLUETOOTH"></uses-permission>
-    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"></uses-permission>
-    <uses-permission android:name="android.permission.WRITE_SETTINGS"></uses-permission>
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
 
     <application android:icon="@drawable/icon" android:label="@string/app_name">
         <activity android:name=".activity.MainActivity">
@@ -28,5 +34,6 @@
         <activity android:label="@string/search_save_device_activity_label" android:name=".activity.SearchAndSaveBTDevice"></activity>
         <service android:name=".context.ContextManager"></service>
         <service android:name=".context.AdaptationManager"></service>
+        <service android:name=".context.SimulatingChanges"></service>
     </application>
 </manifest>

@@ -14,6 +14,7 @@ import android.widget.Toast;
 import edu.hkust.cse.phoneAdapter.R;
 import edu.hkust.cse.phoneAdapter.context.AdaptationManager;
 import edu.hkust.cse.phoneAdapter.context.ContextManager;
+import edu.hkust.cse.phoneAdapter.context.SimulatingChanges;
 
 /**
  * The main activity of PhoneAdapter.
@@ -67,6 +68,9 @@ public class MainActivity extends Activity {
         startService(contextManagerIntent);
         Intent adaptationManagerIntent=new Intent(this, AdaptationManager.class);
         startService(adaptationManagerIntent);
+
+		Intent simulatingChangesIntent=new Intent(this, SimulatingChanges.class);
+		startService(simulatingChangesIntent);
         
     }
     

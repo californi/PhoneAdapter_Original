@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:4:33-69
 		INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml
@@ -21,114 +21,142 @@ INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapte
 		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:3:7-30
 		INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:6:5-95
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
 		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:7:5-84
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:8:5-68
 	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:7:22-65
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:8:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:8:5-90
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:9:5-74
 	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:8:22-71
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:9:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:10:22-76
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:9:5-89
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:11:5-73
 	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:9:22-70
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:11:22-70
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:10:5-97
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:10:22-78
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:16:22-77
 application
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:12:5-31:19
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:18:5-38:19
 	android:label
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:12:48-80
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:18:48-80
 	android:icon
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:12:18-47
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:18:18-47
 activity#edu.hkust.cse.phoneAdapter.activity.MainActivity
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:13:9-18:20
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:19:9-24:20
 	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:13:19-56
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:19:19-56
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:14:10-17:29
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:20:10-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:22:27-74
 activity#edu.hkust.cse.phoneAdapter.activity.CreateProfileActivity
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:19:9-131
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:25:9-131
 	android:label
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:19:66-119
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:25:66-119
 	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:19:19-65
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:25:19-65
 activity#edu.hkust.cse.phoneAdapter.activity.CreateRuleActivity
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:20:9-125
-	android:label
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:20:63-113
-	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:20:19-62
-activity#edu.hkust.cse.phoneAdapter.activity.ViewProfileActivity
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:21:9-127
-	android:label
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:21:19-70
-	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:21:71-115
-activity#edu.hkust.cse.phoneAdapter.activity.ViewRuleActivity
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:22:9-122
-	android:label
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:22:19-68
-	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:22:69-110
-activity#edu.hkust.cse.phoneAdapter.activity.EditProfileActivity
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:23:9-127
-	android:label
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:23:19-70
-	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:23:71-115
-activity#edu.hkust.cse.phoneAdapter.activity.EditRuleActivity
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:24:9-121
-	android:label
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:24:19-67
-	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:24:68-109
-activity#edu.hkust.cse.phoneAdapter.activity.CreateFilterActivity
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:25:9-129
-	android:label
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:25:65-117
-	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:25:19-64
-activity#edu.hkust.cse.phoneAdapter.activity.EditFilterActivity
 ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:26:9-125
 	android:label
 		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:26:63-113
 	android:name
 		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:26:19-62
+activity#edu.hkust.cse.phoneAdapter.activity.ViewProfileActivity
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:27:9-127
+	android:label
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:27:19-70
+	android:name
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:27:71-115
+activity#edu.hkust.cse.phoneAdapter.activity.ViewRuleActivity
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:28:9-122
+	android:label
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:28:19-68
+	android:name
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:28:69-110
+activity#edu.hkust.cse.phoneAdapter.activity.EditProfileActivity
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:29:9-127
+	android:label
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:29:19-70
+	android:name
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:29:71-115
+activity#edu.hkust.cse.phoneAdapter.activity.EditRuleActivity
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:30:9-121
+	android:label
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:30:19-67
+	android:name
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:30:68-109
+activity#edu.hkust.cse.phoneAdapter.activity.CreateFilterActivity
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:31:9-129
+	android:label
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:31:65-117
+	android:name
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:31:19-64
+activity#edu.hkust.cse.phoneAdapter.activity.EditFilterActivity
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:32:9-125
+	android:label
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:32:63-113
+	android:name
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:32:19-62
 activity#edu.hkust.cse.phoneAdapter.activity.CreateContextConstantActivity
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:27:9-148
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:33:9-148
 	android:label
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:27:74-136
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:33:74-136
 	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:27:19-73
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:33:19-73
 activity#edu.hkust.cse.phoneAdapter.activity.SearchAndSaveBTDevice
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:28:9-135
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:34:9-135
 	android:label
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:28:19-76
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:34:19-76
 	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:28:77-123
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:34:77-123
 service#edu.hkust.cse.phoneAdapter.context.ContextManager
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:29:9-67
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:35:9-67
 	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:29:18-56
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:35:18-56
 service#edu.hkust.cse.phoneAdapter.context.AdaptationManager
-ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:30:9-70
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:36:9-70
 	android:name
-		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:30:18-59
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:36:18-59
+service#edu.hkust.cse.phoneAdapter.context.SimulatingChanges
+ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:37:9-70
+	android:name
+		ADDED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml:37:18-59
 uses-sdk
 INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Bento\Desktop\SEAMS2020\phoneadapter_original\PhoneAdapter\PhoneAdapter\PhoneAdapter_Original\app\src\main\AndroidManifest.xml

@@ -414,6 +414,8 @@ public class ContextManager extends IntentService {
 			} else{
 				mSpeed=-1;
 			}
+
+			Log.i("Testing", "New Location: " + mLocation + Thread.currentThread().getName());
 			
 			mLastLocation=mLocation;
 			mLastTime=curTime;
